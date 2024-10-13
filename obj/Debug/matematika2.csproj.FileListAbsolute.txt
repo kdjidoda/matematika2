@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\matematika2\bin\Debug\matematika2.exe.config
+C:\Users\Korisnik\source\repos\matematika2\bin\Debug\matematika2.exe
+C:\Users\Korisnik\source\repos\matematika2\bin\Debug\matematika2.pdb
+C:\Users\Korisnik\source\repos\matematika2\obj\Debug\matematika2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\matematika2\obj\Debug\matematika2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\matematika2\obj\Debug\matematika2.exe
+C:\Users\Korisnik\source\repos\matematika2\obj\Debug\matematika2.pdb
